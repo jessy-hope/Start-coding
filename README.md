@@ -6,6 +6,7 @@ ________________________________________________________________________________
 
 ### PB: Um repositório em construção, do básico até minha jornada atual
 >> O foco inicial será o aprendizado em Servicenow, mas deixo dicas de cursos gratuitos e ferramentas úteis para o dia a dia.
-    Tag: Servicenow | JavaScript
+Servicenow | JavaScript
+```
 
 
